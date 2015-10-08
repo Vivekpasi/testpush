@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16120" started-at="2015-10-05T13:18:38Z" finished-at="2015-10-05T13:18:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16120" started-at="2015-10-05T13:18:38Z" finished-at="2015-10-05T13:18:54Z">
+      <class name="com.limetray.app.user_creation_run">
+        <test-method status="PASS" signature="user_creation_testng()[pri:0, instance:com.limetray.app.user_creation_run@5f150435]" name="user_creation_testng" duration-ms="16028" started-at="2015-10-05T13:18:38Z" finished-at="2015-10-05T13:18:54Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
